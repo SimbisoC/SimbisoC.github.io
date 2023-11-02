@@ -1,0 +1,26 @@
+header {
+text-align: center;
+} 
+
+body {
+background-color: gray;
+}
+
+
+
+nav {
+float: left;
+} 
+
+main { 
+float: right; 
+width: 68%; 
+}
+
+ul {
+list-style: none;
+}
+
+h2 {
+text-align: center; 
+} 

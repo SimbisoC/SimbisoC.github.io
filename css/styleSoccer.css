@@ -1,0 +1,26 @@
+header {
+text-align: center;
+} 
+
+body {
+background-color: gray;
+}
+
+
+
+nav {
+float: left;
+} 
+
+img { 
+border: 2px solid black; 
+padding: 1px; 
+}
+
+#text {
+text-align: right; 
+}
+
+#link {
+float: right;
+}

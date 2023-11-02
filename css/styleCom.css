@@ -1,0 +1,30 @@
+header {
+text-align: center;
+} 
+
+body {
+background-color: indigo;
+color: blue; 
+}
+
+main {
+text-align: middle; 
+}
+	
+	
+nav {
+float: right;
+} 
+
+img { 
+border: 10px solid black; 
+padding: 1px; 
+}
+
+ul {
+list-style: none;
+}
+
+h2 {
+text-align: center; 
+} 
